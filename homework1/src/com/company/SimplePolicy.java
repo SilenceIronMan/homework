@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 public class SimplePolicy {
 
 	final int genThreadInPool = 2; //不超过8
-	final int computeThreadInPool = 2; //不超过16
+	final int computeThreadInPool = 16; //不超过16
 	SimpleShareData ssd;
 
 	public SimplePolicy() {
