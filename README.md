@@ -12,7 +12,7 @@ http://localhost:8080/weather/{city}/{count}
 
 {city} 可替换成需要的城市
 
-{count} 可替换成需要的城市
+{count} 可替换成执行次数
 
 
 
@@ -26,7 +26,7 @@ http://localhost:8080/weather_cache/{city}/{count}
 
 {city} 可替换成需要的城市
 
-{count} 可替换成需要的城市
+{count} 可替换成执行次数
 
 
 
