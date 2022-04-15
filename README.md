@@ -16,7 +16,7 @@ http://localhost:8080/weather/{city}/{count}
 
 
 
-如 http://localhost:8080/weather/苏州/20    表示查询苏州天气20次 
+如 http://localhost:8080/weather/南京/20    表示查询南京天气20次 
 
 
 
@@ -30,7 +30,7 @@ http://localhost:8080/weather_cache/{city}/{count}
 
 
 
-如 http://localhost:8080/weather_cache/苏州/20    表示查询苏州天气20次 
+如 http://localhost:8080/weather_cache/南京/20    表示查询南京天气20次 
 
 
 ![缓存](https://user-images.githubusercontent.com/39050241/163540976-d118eb37-6838-4eae-b0dd-f196667ae2a6.png)
