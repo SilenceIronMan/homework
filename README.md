@@ -33,6 +33,8 @@ http://localhost:8080/weather_cache/{city}/{count}
 如 http://localhost:8080/weather_cache/苏州/20    表示查询苏州天气20次 
 
 
+![缓存](https://user-images.githubusercontent.com/39050241/163540976-d118eb37-6838-4eae-b0dd-f196667ae2a6.png)
 
 
+![非缓存](https://user-images.githubusercontent.com/39050241/163540993-d982c5f6-e510-47ad-92c6-3b9d9bf453c7.png)
 
