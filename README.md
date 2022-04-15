@@ -6,7 +6,7 @@
 
 
 
-## 获取城市天气固定次数并返回耗时（不带带缓存)
+## 获取城市天气固定次数并返回耗时（无缓存)
 
 http://localhost:8080/weather/{city}/{count}
 
@@ -20,7 +20,7 @@ http://localhost:8080/weather/{city}/{count}
 
 
 
-## 获取城市天气固定次数并返回耗时 （带缓存)
+## 获取城市天气固定次数并返回耗时 （缓存)
 
 http://localhost:8080/weather_cache/{city}/{count}
 
