@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ysy.homework.kill.mapper.UserMapper">
+
+    <!-- 根据用户id查询用户 -->
+   <select id="findUserById" resultType="User" parameterType="int">
+       select * from user where uid = #{uid}
+   </select>
+
+</mapper>
