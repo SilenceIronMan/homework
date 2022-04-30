@@ -47,6 +47,10 @@ CMD 进入控制台
 ```
 
 **3. 运行程序**
+变更数据库链接 账号密码
+执行
+mvn clean package  -DskipTests
+重新打包代码
 
 1. java -jar kill-0.0.1-SNAPSHOT.jar
 
